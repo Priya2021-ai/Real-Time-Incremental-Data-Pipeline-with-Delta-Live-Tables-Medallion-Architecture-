@@ -1,0 +1,9 @@
+{
+	"name": "adf-netflix-pri",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "189d5e28-b623-44cb-8d4e-1243f8cc56ea",
+		"tenantId": "b4334bad-b9cb-466d-977b-03d3b332f0a0"
+	}
+}
