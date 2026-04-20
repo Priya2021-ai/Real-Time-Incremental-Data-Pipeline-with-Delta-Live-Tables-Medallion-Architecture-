@@ -20,7 +20,9 @@ This project demonstrates an end-to-end data pipeline built using Azure Data Fac
 - Delta Live Tables
 - PySpark
 - SQL
-
+ -Azure Logic Apps
+ -GitHub Webhooks
+ -HTTP Trigger
 ---
 
 # Pipeline Flow
@@ -54,6 +56,8 @@ This pipeline can be used for building real-time analytics systems such as:
 - Sales reporting
 - Customer insights
 - Business intelligence dashboards.
+
+
 
 ---
 
