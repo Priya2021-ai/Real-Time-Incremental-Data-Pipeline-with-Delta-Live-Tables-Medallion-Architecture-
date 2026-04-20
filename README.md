@@ -53,7 +53,7 @@ This project demonstrates an end-to-end data pipeline built using Azure Data Fac
 This pipeline can be used for building real-time analytics systems such as:
 - Sales reporting
 - Customer insights
-- Business intelligence dashboards
+- Business intelligence dashboards.
 
 ---
 
